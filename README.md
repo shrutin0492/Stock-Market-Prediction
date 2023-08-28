@@ -18,7 +18,7 @@ Stock market prediction is a challenging task that involves analyzing historical
 
 ## Dataset
 
-The dataset used for this project is named `sp500.csv`, which is included in the [dataset](dataset/) directory of this repository. It contains historical data of the S&P 500 index, including features such as opening price, closing price, trading volume, etc. The dataset is used for both training the model and evaluating its performance.
+The dataset used for this project is named `sp500.csv`, which is included in the [dataset](sp500.csv) directory of this repository. It contains historical data of the S&P 500 index, including features such as opening price, closing price, trading volume, etc. The dataset is used for both training the model and evaluating its performance.
 
 ## Implementation
 
