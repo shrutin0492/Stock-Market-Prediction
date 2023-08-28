@@ -9,8 +9,7 @@ This repository contains the code and resources for training a Random Forest mod
 - [Implementation](#implementation)
 - [Results](#results)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
